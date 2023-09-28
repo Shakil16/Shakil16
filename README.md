@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm a Cloud and DevOps Engineer who follows Continuous Learning and Continuous Sharing.
 
 Here are some ideas to get you started:
